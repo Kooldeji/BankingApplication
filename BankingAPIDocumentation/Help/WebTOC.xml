@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/bd123bf5-d4cf-41d1-80c9-ed2896d46a99.htm" />
+  <HelpTOCNode Id="d11337a4-35ea-4117-b3b9-b55d6157bdeb" Title="Version History" Url="html/566cb1d2-3255-4c65-aeb4-e6186d964940.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/25815788-9057-47be-849e-0088f8cc0db6.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="3949dc0c-bbb2-4b93-84a5-938b90a61343" Title="( Default Namespace )" Url="html/96f28dfd-2c23-c332-ac2f-6930f1f93bf9.htm">
+    <HelpTOCNode Title="&lt;Module&gt; Class" Url="html/768899a6-3ddf-cf21-97b9-84ee66e3ce20.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="a36975ae-f064-441d-bc00-6beedce36f4a" Title="BankingApplication" Url="html/f1cf4222-2c82-3bea-479a-1bd4fb33fc5a.htm">
+    <HelpTOCNode Id="5f0e3487-d28d-4c40-b322-91b42e196813" Title="Account Class" Url="html/a0af7c52-5685-534c-1f97-be138a43cc13.htm">
+      <HelpTOCNode Id="c381e981-fd8c-44cb-9f62-9f5222def6c4" Title="Account Constructor " Url="html/590c6b2a-5006-affe-c328-6b5943c59456.htm">
+        <HelpTOCNode Title="Account Constructor (Account)" Url="html/6e4ced3e-12a7-87a7-f4b2-901221e8a2d5.htm" />
+        <HelpTOCNode Title="Account Constructor (Customer, Double)" Url="html/063e5fec-43e2-7abb-e0f8-1ca28c0210e6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8f72b23c-013b-4c38-aada-3a02a437e107" Title="Account Fields" Url="html/cfabb75e-fd8a-8b09-a03d-5f4ad4e62e13.htm">
+        <HelpTOCNode Title="Customer Field" Url="html/263085ea-7ad7-0a11-1eb2-1ed35907cce5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3bb01875-c2fc-420f-99f9-d1af1a1bc59f" Title="Account Methods" Url="html/27ffb3fa-396b-9da8-9454-e937f22effaa.htm">
+        <HelpTOCNode Title="addTransaction Method " Url="html/34bb59c1-5b39-cde3-7a31-a126160bc384.htm" />
+        <HelpTOCNode Title="bonus Method " Url="html/ca1b21e9-e8ca-d4f6-0ec2-8fda647bfe94.htm" />
+        <HelpTOCNode Title="charge Method " Url="html/ed5a2bf1-ec67-36fa-e72f-3974a39f76fb.htm" />
+        <HelpTOCNode Title="deposit Method " Url="html/3522458e-8656-7c80-2a7a-c8a15e8f6171.htm" />
+        <HelpTOCNode Title="generateAcctNumber Method " Url="html/858001ab-d19a-e2ec-ab8c-fb26542f1500.htm" />
+        <HelpTOCNode Title="getTransactions Method " Url="html/5c249c2d-06eb-3ec3-69e9-59d36332e9e5.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/180956c6-ca6c-3ef2-1bac-8ed6f39980e3.htm" />
+        <HelpTOCNode Title="withdraw Method " Url="html/01c4d8c8-61db-08a1-b39a-4a9481a6540c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b6f01516-324d-46b8-bb89-6008dd1d129a" Title="Account Properties" Url="html/e3834beb-6959-bfb3-7b3c-b49d155f8e77.htm">
+        <HelpTOCNode Title="AccountName Property " Url="html/cb47762a-c679-9037-7187-7e927b923b0f.htm" />
+        <HelpTOCNode Title="AccountNos Property " Url="html/0bede5a2-2494-62d8-c718-70e49c51c86a.htm" />
+        <HelpTOCNode Title="Balance Property " Url="html/92186380-e92f-c87d-d346-b7dc67ae31dc.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/4cb3a88d-2828-7712-90a4-3e1dab6c25f3.htm" />
+        <HelpTOCNode Title="MaxBalance Property " Url="html/2b98c367-86ad-7e73-fd0d-efafbf660d3b.htm" />
+        <HelpTOCNode Title="MinBalance Property " Url="html/70bd71d9-4ddb-f464-4605-d5ed15bba4a7.htm" />
+        <HelpTOCNode Title="NosAccount Property " Url="html/d2e462ca-983e-d9fb-fde0-bc9e4c849e57.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6e1e9d66-b9f8-442d-819f-c5f1e5483033" Title="Customer Class" Url="html/d8ad8f4f-c389-5e73-0497-0970e45f47fb.htm">
+      <HelpTOCNode Id="02702b3a-dee6-4532-a681-fbb569f13f76" Title="Customer Constructor " Url="html/6a246695-3d49-a026-b4c4-c6ed37f1f46e.htm">
+        <HelpTOCNode Title="Customer Constructor (String, String, String, Gender, String, DateTime)" Url="html/f102be82-93ae-007c-5aeb-10f38e3bf551.htm" />
+        <HelpTOCNode Title="Customer Constructor (String, String, String, Gender, List(Account), String, DateTime)" Url="html/bcdcd404-1ee8-895b-779e-2d331a703949.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f112d482-5b80-461a-8753-1fc0cbcdd52e" Title="Customer Methods" Url="html/7dd90ded-1e39-70e6-8508-9bf0b6abcdea.htm">
+        <HelpTOCNode Title="addAccount Method " Url="html/37b27c9d-e23b-4197-53a9-a6c61c32727b.htm" />
+        <HelpTOCNode Title="getAccounts Method " Url="html/3c503cc6-c697-cf9d-d2e5-4b1fd2785c8e.htm" />
+        <HelpTOCNode Title="main Method " Url="html/2b372ed1-4721-73de-3f41-fb993eae2f35.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/6985d880-2ad5-2933-6a52-a764a7bbc0c0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c81ce2a-d32c-4a80-ae19-64b8b7950288" Title="Customer Properties" Url="html/33a6815d-99fb-d58f-28e4-675b3f926ce2.htm">
+        <HelpTOCNode Title="Address Property " Url="html/af348bad-cb27-ec97-e305-93e5368f7634.htm" />
+        <HelpTOCNode Title="DateCreated Property " Url="html/d647e8b7-9fad-b317-36f6-76be86d99524.htm" />
+        <HelpTOCNode Title="FName Property " Url="html/1459a736-27f7-b796-73a5-8254d626f695.htm" />
+        <HelpTOCNode Title="Gender Property " Url="html/106c9c85-a2af-da5e-bb93-eec97b0b0fb4.htm" />
+        <HelpTOCNode Title="LName Property " Url="html/082264db-0e7c-3b39-1af5-b1a67fb62f1b.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/4725601e-9197-2ddc-b6e9-ce01c427bb91.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ETransactionResult Enumeration" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+    <HelpTOCNode Title="ETransactionType Enumeration" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+    <HelpTOCNode Title="Gender Enumeration" Url="html/87f64295-9b97-6484-5d19-d3a0cbdc7d10.htm" />
+    <HelpTOCNode Id="93214a68-b517-40fa-9337-a9da82d8cb83" Title="SavingsAccount Class" Url="html/1ffe09b5-a771-1093-66d8-44416db6a606.htm">
+      <HelpTOCNode Title="SavingsAccount Constructor " Url="html/50a2ccff-1119-481a-2860-803b0b5fa40b.htm" />
+      <HelpTOCNode Title="SavingsAccount Fields" Url="html/8e003869-153d-9fc6-1837-005309f8b717.htm" />
+      <HelpTOCNode Title="SavingsAccount Methods" Url="html/b1b9fbc6-6a83-45f8-43e3-30d72dc7ca4e.htm" />
+      <HelpTOCNode Title="SavingsAccount Properties" Url="html/cc3a8587-a492-9808-f5fd-adf0e9182ac6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2ab045f-657e-40c4-9253-680a34478e8e" Title="Transaction Class" Url="html/6db674be-5890-651b-c4a6-d1add93d1611.htm">
+      <HelpTOCNode Title="Transaction Constructor " Url="html/d981d0d7-f9f6-4977-80ec-d68439e6285e.htm" />
+      <HelpTOCNode Id="a2cc8364-c3ab-4f48-8590-fcda18299c75" Title="Transaction Methods" Url="html/26040bae-3207-4491-61f4-df4bcac5160e.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/d5273eb0-4f9d-a100-2f40-dac16f507010.htm" />
+        <HelpTOCNode Title="transact Method " Url="html/413cc53d-7e74-21f2-4098-2dd5561949b1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5e339c3-4170-42db-a12f-e4c35bd6f2fe" Title="Transaction Properties" Url="html/cae87205-c497-579d-c34e-6dedfd586e8f.htm">
+        <HelpTOCNode Title="Amount Property " Url="html/ffc0a734-a62e-92fb-545d-bca8603cda9c.htm" />
+        <HelpTOCNode Title="ChargeRate Property " Url="html/12942bf0-a6d1-2959-f4b7-e535a09445ae.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/00a59f0a-ca38-d124-6317-df735957cac1.htm" />
+        <HelpTOCNode Title="InterestRate Property " Url="html/0fcb3670-a866-a7e8-f28d-4491165304ed.htm" />
+        <HelpTOCNode Title="Result Property " Url="html/7023fde5-a7ab-8b2a-5b29-bb4907c1c60c.htm" />
+        <HelpTOCNode Title="TransactionType Property " Url="html/805d5def-f246-868c-648f-c33697fd1ea7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

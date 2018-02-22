@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title=" namespace" Url="html/96f28dfd-2c23-c332-ac2f-6930f1f93bf9.htm" />
+  <HelpKINode Title="&lt;Module&gt; class">
+    <HelpKINode Title="&lt;Module&gt; Class" Url="html/768899a6-3ddf-cf21-97b9-84ee66e3ce20.htm" />
+    <HelpKINode Title="about &lt;Module&gt; class" Url="html/768899a6-3ddf-cf21-97b9-84ee66e3ce20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Account class">
+    <HelpKINode Title="Account Class" Url="html/a0af7c52-5685-534c-1f97-be138a43cc13.htm" />
+    <HelpKINode Title="about Account class" Url="html/a0af7c52-5685-534c-1f97-be138a43cc13.htm" />
+    <HelpKINode Title="constructor" Url="html/590c6b2a-5006-affe-c328-6b5943c59456.htm" />
+    <HelpKINode Title="fields" Url="html/cfabb75e-fd8a-8b09-a03d-5f4ad4e62e13.htm" />
+    <HelpKINode Title="methods" Url="html/27ffb3fa-396b-9da8-9454-e937f22effaa.htm" />
+    <HelpKINode Title="properties" Url="html/e3834beb-6959-bfb3-7b3c-b49d155f8e77.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Account.Account constructor" Url="html/590c6b2a-5006-affe-c328-6b5943c59456.htm" />
+  <HelpKINode Title="Account.AccountName property" Url="html/cb47762a-c679-9037-7187-7e927b923b0f.htm" />
+  <HelpKINode Title="Account.AccountNos property" Url="html/0bede5a2-2494-62d8-c718-70e49c51c86a.htm" />
+  <HelpKINode Title="Account.addTransaction method" Url="html/34bb59c1-5b39-cde3-7a31-a126160bc384.htm" />
+  <HelpKINode Title="Account.Balance property" Url="html/92186380-e92f-c87d-d346-b7dc67ae31dc.htm" />
+  <HelpKINode Title="Account.bonus method" Url="html/ca1b21e9-e8ca-d4f6-0ec2-8fda647bfe94.htm" />
+  <HelpKINode Title="Account.charge method" Url="html/ed5a2bf1-ec67-36fa-e72f-3974a39f76fb.htm" />
+  <HelpKINode Title="Account.Customer field" Url="html/263085ea-7ad7-0a11-1eb2-1ed35907cce5.htm" />
+  <HelpKINode Title="Account.Date property" Url="html/4cb3a88d-2828-7712-90a4-3e1dab6c25f3.htm" />
+  <HelpKINode Title="Account.deposit method" Url="html/3522458e-8656-7c80-2a7a-c8a15e8f6171.htm" />
+  <HelpKINode Title="Account.generateAcctNumber method" Url="html/858001ab-d19a-e2ec-ab8c-fb26542f1500.htm" />
+  <HelpKINode Title="Account.getTransactions method" Url="html/5c249c2d-06eb-3ec3-69e9-59d36332e9e5.htm" />
+  <HelpKINode Title="Account.MaxBalance property" Url="html/2b98c367-86ad-7e73-fd0d-efafbf660d3b.htm" />
+  <HelpKINode Title="Account.MinBalance property" Url="html/70bd71d9-4ddb-f464-4605-d5ed15bba4a7.htm" />
+  <HelpKINode Title="Account.NosAccount property" Url="html/d2e462ca-983e-d9fb-fde0-bc9e4c849e57.htm" />
+  <HelpKINode Title="Account.ToString method" Url="html/180956c6-ca6c-3ef2-1bac-8ed6f39980e3.htm" />
+  <HelpKINode Title="Account.withdraw method" Url="html/01c4d8c8-61db-08a1-b39a-4a9481a6540c.htm" />
+  <HelpKINode Title="AccountName property" Url="html/cb47762a-c679-9037-7187-7e927b923b0f.htm" />
+  <HelpKINode Title="AccountNos property" Url="html/0bede5a2-2494-62d8-c718-70e49c51c86a.htm" />
+  <HelpKINode Title="addAccount method" Url="html/37b27c9d-e23b-4197-53a9-a6c61c32727b.htm" />
+  <HelpKINode Title="Address property" Url="html/af348bad-cb27-ec97-e305-93e5368f7634.htm" />
+  <HelpKINode Title="addTransaction method" Url="html/34bb59c1-5b39-cde3-7a31-a126160bc384.htm" />
+  <HelpKINode Title="Amount property" Url="html/ffc0a734-a62e-92fb-545d-bca8603cda9c.htm" />
+  <HelpKINode Title="Balance property" Url="html/92186380-e92f-c87d-d346-b7dc67ae31dc.htm" />
+  <HelpKINode Title="BalanceLimit enumeration member" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="BankingApplication namespace" Url="html/f1cf4222-2c82-3bea-479a-1bd4fb33fc5a.htm" />
+  <HelpKINode Title="BankingApplication.Account class" Url="html/a0af7c52-5685-534c-1f97-be138a43cc13.htm" />
+  <HelpKINode Title="BankingApplication.Customer class" Url="html/d8ad8f4f-c389-5e73-0497-0970e45f47fb.htm" />
+  <HelpKINode Title="BankingApplication.ETransactionResult enumeration" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="BankingApplication.ETransactionType enumeration" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+  <HelpKINode Title="BankingApplication.Gender enumeration" Url="html/87f64295-9b97-6484-5d19-d3a0cbdc7d10.htm" />
+  <HelpKINode Title="BankingApplication.SavingsAccount class" Url="html/1ffe09b5-a771-1093-66d8-44416db6a606.htm" />
+  <HelpKINode Title="BankingApplication.Transaction class" Url="html/6db674be-5890-651b-c4a6-d1add93d1611.htm" />
+  <HelpKINode Title="bonus method" Url="html/ca1b21e9-e8ca-d4f6-0ec2-8fda647bfe94.htm" />
+  <HelpKINode Title="charge method" Url="html/ed5a2bf1-ec67-36fa-e72f-3974a39f76fb.htm" />
+  <HelpKINode Title="ChargeRate property" Url="html/12942bf0-a6d1-2959-f4b7-e535a09445ae.htm" />
+  <HelpKINode Title="Customer class">
+    <HelpKINode Title="Customer Class" Url="html/d8ad8f4f-c389-5e73-0497-0970e45f47fb.htm" />
+    <HelpKINode Title="about Customer class" Url="html/d8ad8f4f-c389-5e73-0497-0970e45f47fb.htm" />
+    <HelpKINode Title="constructor" Url="html/6a246695-3d49-a026-b4c4-c6ed37f1f46e.htm" />
+    <HelpKINode Title="methods" Url="html/7dd90ded-1e39-70e6-8508-9bf0b6abcdea.htm" />
+    <HelpKINode Title="properties" Url="html/33a6815d-99fb-d58f-28e4-675b3f926ce2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Customer field" Url="html/263085ea-7ad7-0a11-1eb2-1ed35907cce5.htm" />
+  <HelpKINode Title="Customer.addAccount method" Url="html/37b27c9d-e23b-4197-53a9-a6c61c32727b.htm" />
+  <HelpKINode Title="Customer.Address property" Url="html/af348bad-cb27-ec97-e305-93e5368f7634.htm" />
+  <HelpKINode Title="Customer.Customer constructor" Url="html/6a246695-3d49-a026-b4c4-c6ed37f1f46e.htm" />
+  <HelpKINode Title="Customer.DateCreated property" Url="html/d647e8b7-9fad-b317-36f6-76be86d99524.htm" />
+  <HelpKINode Title="Customer.FName property" Url="html/1459a736-27f7-b796-73a5-8254d626f695.htm" />
+  <HelpKINode Title="Customer.Gender property" Url="html/106c9c85-a2af-da5e-bb93-eec97b0b0fb4.htm" />
+  <HelpKINode Title="Customer.getAccounts method" Url="html/3c503cc6-c697-cf9d-d2e5-4b1fd2785c8e.htm" />
+  <HelpKINode Title="Customer.LName property" Url="html/082264db-0e7c-3b39-1af5-b1a67fb62f1b.htm" />
+  <HelpKINode Title="Customer.main method" Url="html/2b372ed1-4721-73de-3f41-fb993eae2f35.htm" />
+  <HelpKINode Title="Customer.Title property" Url="html/4725601e-9197-2ddc-b6e9-ce01c427bb91.htm" />
+  <HelpKINode Title="Customer.ToString method" Url="html/6985d880-2ad5-2933-6a52-a764a7bbc0c0.htm" />
+  <HelpKINode Title="Date property">
+    <HelpKINode Title="Account.Date Property " Url="html/4cb3a88d-2828-7712-90a4-3e1dab6c25f3.htm" />
+    <HelpKINode Title="Transaction.Date Property " Url="html/00a59f0a-ca38-d124-6317-df735957cac1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateCreated property" Url="html/d647e8b7-9fad-b317-36f6-76be86d99524.htm" />
+  <HelpKINode Title="Deposit enumeration member" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+  <HelpKINode Title="deposit method" Url="html/3522458e-8656-7c80-2a7a-c8a15e8f6171.htm" />
+  <HelpKINode Title="ETransactionResult enumeration" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="ETransactionType enumeration" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+  <HelpKINode Title="Female enumeration member" Url="html/87f64295-9b97-6484-5d19-d3a0cbdc7d10.htm" />
+  <HelpKINode Title="FName property" Url="html/1459a736-27f7-b796-73a5-8254d626f695.htm" />
+  <HelpKINode Title="Gender enumeration" Url="html/87f64295-9b97-6484-5d19-d3a0cbdc7d10.htm" />
+  <HelpKINode Title="Gender property" Url="html/106c9c85-a2af-da5e-bb93-eec97b0b0fb4.htm" />
+  <HelpKINode Title="generateAcctNumber method" Url="html/858001ab-d19a-e2ec-ab8c-fb26542f1500.htm" />
+  <HelpKINode Title="getAccounts method" Url="html/3c503cc6-c697-cf9d-d2e5-4b1fd2785c8e.htm" />
+  <HelpKINode Title="getTransactions method" Url="html/5c249c2d-06eb-3ec3-69e9-59d36332e9e5.htm" />
+  <HelpKINode Title="Incomplete enumeration member" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="InsufficientFunds enumeration member" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="InterestRate property" Url="html/0fcb3670-a866-a7e8-f28d-4491165304ed.htm" />
+  <HelpKINode Title="LName property" Url="html/082264db-0e7c-3b39-1af5-b1a67fb62f1b.htm" />
+  <HelpKINode Title="Loan enumeration member" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+  <HelpKINode Title="main method" Url="html/2b372ed1-4721-73de-3f41-fb993eae2f35.htm" />
+  <HelpKINode Title="Male enumeration member" Url="html/87f64295-9b97-6484-5d19-d3a0cbdc7d10.htm" />
+  <HelpKINode Title="MaxBalance property" Url="html/2b98c367-86ad-7e73-fd0d-efafbf660d3b.htm" />
+  <HelpKINode Title="MinBalance property" Url="html/70bd71d9-4ddb-f464-4605-d5ed15bba4a7.htm" />
+  <HelpKINode Title="NosAccount property" Url="html/d2e462ca-983e-d9fb-fde0-bc9e4c849e57.htm" />
+  <HelpKINode Title="Result property" Url="html/7023fde5-a7ab-8b2a-5b29-bb4907c1c60c.htm" />
+  <HelpKINode Title="SavingsAccount class">
+    <HelpKINode Title="SavingsAccount Class" Url="html/1ffe09b5-a771-1093-66d8-44416db6a606.htm" />
+    <HelpKINode Title="about SavingsAccount class" Url="html/1ffe09b5-a771-1093-66d8-44416db6a606.htm" />
+    <HelpKINode Title="constructor" Url="html/50a2ccff-1119-481a-2860-803b0b5fa40b.htm" />
+    <HelpKINode Title="fields" Url="html/8e003869-153d-9fc6-1837-005309f8b717.htm" />
+    <HelpKINode Title="methods" Url="html/b1b9fbc6-6a83-45f8-43e3-30d72dc7ca4e.htm" />
+    <HelpKINode Title="properties" Url="html/cc3a8587-a492-9808-f5fd-adf0e9182ac6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SavingsAccount.SavingsAccount constructor" Url="html/50a2ccff-1119-481a-2860-803b0b5fa40b.htm" />
+  <HelpKINode Title="Success enumeration member" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="Title property" Url="html/4725601e-9197-2ddc-b6e9-ce01c427bb91.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="Account.ToString Method " Url="html/180956c6-ca6c-3ef2-1bac-8ed6f39980e3.htm" />
+    <HelpKINode Title="Customer.ToString Method " Url="html/6985d880-2ad5-2933-6a52-a764a7bbc0c0.htm" />
+    <HelpKINode Title="Transaction.ToString Method " Url="html/d5273eb0-4f9d-a100-2f40-dac16f507010.htm" />
+  </HelpKINode>
+  <HelpKINode Title="transact method" Url="html/413cc53d-7e74-21f2-4098-2dd5561949b1.htm" />
+  <HelpKINode Title="Transaction class">
+    <HelpKINode Title="Transaction Class" Url="html/6db674be-5890-651b-c4a6-d1add93d1611.htm" />
+    <HelpKINode Title="about Transaction class" Url="html/6db674be-5890-651b-c4a6-d1add93d1611.htm" />
+    <HelpKINode Title="constructor" Url="html/d981d0d7-f9f6-4977-80ec-d68439e6285e.htm" />
+    <HelpKINode Title="methods" Url="html/26040bae-3207-4491-61f4-df4bcac5160e.htm" />
+    <HelpKINode Title="properties" Url="html/cae87205-c497-579d-c34e-6dedfd586e8f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Transaction.Amount property" Url="html/ffc0a734-a62e-92fb-545d-bca8603cda9c.htm" />
+  <HelpKINode Title="Transaction.ChargeRate property" Url="html/12942bf0-a6d1-2959-f4b7-e535a09445ae.htm" />
+  <HelpKINode Title="Transaction.Date property" Url="html/00a59f0a-ca38-d124-6317-df735957cac1.htm" />
+  <HelpKINode Title="Transaction.InterestRate property" Url="html/0fcb3670-a866-a7e8-f28d-4491165304ed.htm" />
+  <HelpKINode Title="Transaction.Result property" Url="html/7023fde5-a7ab-8b2a-5b29-bb4907c1c60c.htm" />
+  <HelpKINode Title="Transaction.ToString method" Url="html/d5273eb0-4f9d-a100-2f40-dac16f507010.htm" />
+  <HelpKINode Title="Transaction.transact method" Url="html/413cc53d-7e74-21f2-4098-2dd5561949b1.htm" />
+  <HelpKINode Title="Transaction.Transaction constructor" Url="html/d981d0d7-f9f6-4977-80ec-d68439e6285e.htm" />
+  <HelpKINode Title="Transaction.TransactionType property" Url="html/805d5def-f246-868c-648f-c33697fd1ea7.htm" />
+  <HelpKINode Title="TransactionType property" Url="html/805d5def-f246-868c-648f-c33697fd1ea7.htm" />
+  <HelpKINode Title="Transfer enumeration member" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/eac35078-80fa-1f0a-9cbb-d32be430e04b.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/25815788-9057-47be-849e-0088f8cc0db6.htm" />
+    <HelpKINode Title="history" Url="html/566cb1d2-3255-4c65-aeb4-e6186d964940.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/bd123bf5-d4cf-41d1-80c9-ed2896d46a99.htm" />
+  <HelpKINode Title="withdraw method" Url="html/01c4d8c8-61db-08a1-b39a-4a9481a6540c.htm" />
+  <HelpKINode Title="Withdrawal enumeration member" Url="html/7c792ae4-a64c-5486-87ed-048930dbfe40.htm" />
+</HelpKI>
